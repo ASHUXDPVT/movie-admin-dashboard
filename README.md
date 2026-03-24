@@ -31,7 +31,15 @@ A modern React Admin Dashboard for managing movie bookings, users, and ticket wo
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/973c8991-f320-4614-a095-50cc503f48f9" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fd590ce5-43a6-4a0d-be3e-7d30d7ceb028" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ae95162b-e654-4b5f-a3d0-dec88043a3a8" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8911adb1-5c83-4962-b002-0c5eb3eca025" />
+
+
 
 ---
 
